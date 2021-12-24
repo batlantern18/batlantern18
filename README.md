@@ -1,6 +1,7 @@
 ### Hi there
-  I’m currently working on my Website.
-  I’m currently learning how to code several different languages.
+    I am a Minecraft Player and Addon Creator.
+    I’m currently working on my Website.
+    I’m currently learning how to code several different languages.
 
 <!--
 **draf18/draf18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
