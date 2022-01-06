@@ -1,7 +1,7 @@
 👋 **Hi there**
 
     I’m a Minecraft Player and Addon Creator.
-    I’m currently working on my Website.
+    I’m currently working on my Website and a New Resource Pack.
     I’m currently learning how to code several different languages.
 
 <!--
