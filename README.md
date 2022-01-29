@@ -7,8 +7,8 @@
 Links
 ===========
 - [Follow Me On Twitch](https://twitch.tv/batlantern18)
-- [My Youtube](https://www.youtube.com/channel/UCH6HIO3ZSc3Rj_IhR2OmIog)
-- [Subscribe to Me On Youtube](https://www.youtube.com/channel/UCH6HIO3ZSc3Rj_IhR2OmIog?sub_confirmation=1)
+- [My Youtube](https://batlantern18.github.io/redirect/youtube.html)
+- [Subscribe to Me On Youtube]((https://batlantern18.github.io/redirect/subscribeonyoutube.html)
 
 <!--
 **batlantern18/batlantern18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
