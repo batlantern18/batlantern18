@@ -4,8 +4,14 @@
     I’m currently working on my Website (It is Private) and a New Resource Pack.
     I’m currently learning how to code several different languages.
 
+Links
+===========
+- [Follow Me On Twitch](https://twitch.tv/batlantern18)
+- [My Youtube](https://www.youtube.com/channel/UCH6HIO3ZSc3Rj_IhR2OmIog)
+- [Subscribe to Me On Youtube](https://www.youtube.com/channel/UCH6HIO3ZSc3Rj_IhR2OmIog?sub_confirmation=1)
+
 <!--
-**draf18/draf18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**batlantern18/batlantern18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
