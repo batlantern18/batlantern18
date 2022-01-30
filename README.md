@@ -3,6 +3,7 @@
     I’m a Minecraft Player and Addon Creator.
     I’m currently working on my Website (It is Private) and a New Resource Pack.
     I’m currently learning how to code several different languages.
+    Might Be Making Minecraft Videos and Streams in the Future! 
 
 Links
 ===========
