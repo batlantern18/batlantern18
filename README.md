@@ -3,7 +3,7 @@
     I’m a Web Developer
     I’m currently working on my Website and an app.
     I’m currently learning how to code several different languages.
-    <!--- Might Be Making How To Videos on Progamming and Coding Languages! -->
+ [//]: # (Might Be Making How To Videos on Progamming and Coding Languages!)
 
 Links
 ===========
