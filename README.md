@@ -1,9 +1,9 @@
 👋 **Hi there**
 
-    I’m a Minecraft Player and Addon Creator.
-    I’m currently working on my Website (It is Private) and a New Resource Pack.
+    I’m a Web Developer
+    I’m currently working on my Website and an app.
     I’m currently learning how to code several different languages.
-    Might Be Making Minecraft Videos and Streams in the Future! 
+    <!--Might Be Making How To Videos on Progamming and Coding Languages!-->
 
 Links
 ===========
